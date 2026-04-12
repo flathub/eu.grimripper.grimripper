@@ -24,10 +24,10 @@ finish-args:
   - --filesystem=xdg-music
 
 cleanup:
-  - /man
   - /include
-  - /share/man
+  - /lib/pkgconfig
   - /share/doc
+  - /share/man
   - /lib/*.a
   - /lib/*.la
 
