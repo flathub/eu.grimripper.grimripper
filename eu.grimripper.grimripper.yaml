@@ -100,4 +100,4 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/tanuva/grimripper.git
-        commit: f48970c8151c37ada021983a39c4f0fa31033787
+        commit: 15d1e6161ccdf2d97dd8aff98fceb54f93b2e78b
